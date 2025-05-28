@@ -20,7 +20,7 @@ A multilingual, voice-activated assistant that translates natural language queri
 ## 🗂️ Project Structure
 
 sql-powered-assistant/
-├── .env                   # Environment variables (EURI key, DB URI)
+├── .env                   # Environment variables (EURI key, DB URI) <br>
 ├── app/                   # (Optional) For modular app expansion
 ├── config.py              # Configuration file for API keys and DB connection
 ├── main.py                # Streamlit main app (entry point)
@@ -57,17 +57,17 @@ sql-powered-assistant/
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 ```
 
-3.**Install Dependencies**
+3. **Install Dependencies**
 ```bash
 pip install -r requirements.txt
 ```
 
-4.**Create a .env File**
+4. **Create a .env File**
 ```bash
 EURI_API_KEY=your_euri_api_key
 DATABASE_URI=postgresql://username:password@host:port/dbname
 ```
-5.**Running the App**
+5. **Running the App**
 ```bash
 streamlit run main.py
 ```
