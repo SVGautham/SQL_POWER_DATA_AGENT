@@ -19,15 +19,15 @@ A multilingual, voice-activated assistant that translates natural language queri
 
 ## 🗂️ Project Structure
 
-sql-powered-assistant/
-├── .env                   # Environment variables (EURI key, DB URI) <br>
-├── app/                   # (Optional) For modular app expansion
-├── config.py              # Configuration file for API keys and DB connection
-├── main.py                # Streamlit main app (entry point)
-├── prompt_template.txt    # Prompt format for the LLM
-├── requirements.txt       # Python dependencies
-├── utills.py              # Utility functions (LLM call, SQL executor, schema parser)
-└── README.md              # Project documentation (this file)
+sql-powered-assistant/<br>
+<br>├── .env                   # Environment variables (EURI key, DB URI) <br>
+<br>├── app/                   # (Optional) For modular app expansion
+<br>├── config.py              # Configuration file for API keys and DB connection
+<br>├── main.py                # Streamlit main app (entry point)
+<br>├── prompt_template.txt    # Prompt format for the LLM
+<br>├── requirements.txt       # Python dependencies
+<br>├── utills.py              # Utility functions (LLM call, SQL executor, schema parser)
+<br>└── README.md              # Project documentation (this file)
 
 
 
