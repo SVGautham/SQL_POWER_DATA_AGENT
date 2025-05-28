@@ -19,14 +19,16 @@ A multilingual, voice-activated assistant that translates natural language queri
 
 ## 🗂️ Project Structure
 
-env # Environment variables
-├── app/
-│ └── (Optional future expansion)
-├── config.py # API keys and database URI config
-├── main.py # Streamlit app main script
-├── prompt_template.txt # Custom prompt format for LLM
-├── requirements.txt # Python dependencies
-└── utills.py # Core functions: schema reader, SQL executor, LLM call
+sql-powered-assistant/
+├── .env                   # Environment variables (EURI key, DB URI)
+├── app/                   # (Optional) For modular app expansion
+├── config.py              # Configuration file for API keys and DB connection
+├── main.py                # Streamlit main app (entry point)
+├── prompt_template.txt    # Prompt format for the LLM
+├── requirements.txt       # Python dependencies
+├── utills.py              # Utility functions (LLM call, SQL executor, schema parser)
+└── README.md              # Project documentation (this file)
+
 
 
 
@@ -48,20 +50,25 @@ env # Environment variables
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/SVGautham/SQL_POWER_DATA_AGENT
-   cd sql-assistant
+   cd sql-assistant```
 
-2. python -m venv venv
+2. **python -m venv venv**
+```bash
 source venv/bin/activate  # or venv\Scripts\activate on Windows
+```
 
-3.Install Dependencies
+3.**Install Dependencies**
+```bash
 pip install -r requirements.txt
+```
 
-4.Create a .env File
+4.**Create a .env File**
+```bash
 EURI_API_KEY=your_euri_api_key
 DATABASE_URI=postgresql://username:password@host:port/dbname
-
-5.Running the App
+```
+5.**Running the App**
+```bash
 streamlit run main.py
+```
 
-
-5.
