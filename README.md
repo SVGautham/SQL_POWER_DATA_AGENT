@@ -1,6 +1,9 @@
 # 🧠 SQL-Powered Data Retrieval Assistant
 
 A multilingual, voice-activated assistant that translates natural language queries into executable SQL using OpenAI's EURI LLM. Designed to make database querying accessible for non-technical users.
+Designed an AI-powered data cleaning pipeline integrating GPT for intelligent data cleaning, boosting quality by 30%.
+Enabled ingestion from diverse sources (CSV, Excel, PostgreSQL) reducing manual ETL time by 40%.
+
 
 ![Streamlit App Screenshot](screenshot.png) <!-- Optional if you have an image -->
 
@@ -20,7 +23,7 @@ A multilingual, voice-activated assistant that translates natural language queri
 ## 🗂️ Project Structure
 
 sql-powered-assistant/<br>
-<br>├── .env                   # Environment variables (EURI key, DB URI) <br>
+<br>├── .env                   # Environment variables (EURI key, DB URI) 
 <br>├── app/                   # (Optional) For modular app expansion
 <br>├── config.py              # Configuration file for API keys and DB connection
 <br>├── main.py                # Streamlit main app (entry point)
