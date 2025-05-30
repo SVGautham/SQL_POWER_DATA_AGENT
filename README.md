@@ -5,7 +5,8 @@ Designed an AI-powered data cleaning pipeline integrating GPT for intelligent da
 Enabled ingestion from diverse sources (CSV, Excel, PostgreSQL) reducing manual ETL time by 40%.
 
 
-![Streamlit App Screenshot](screenshot.png) <!-- Optional if you have an image -->
+![image](https://github.com/user-attachments/assets/43e9bdad-02e8-4664-90e9-82ec7dbf4368)
+ <!-- Optional if you have an image -->
 
 ---
 
