@@ -1,11 +1,13 @@
 # 🧠 SQL-Powered Data Retrieval Assistant
 
 A multilingual, voice-activated assistant that translates natural language queries into executable SQL using OpenAI's EURI LLM. Designed to make database querying accessible for non-technical users.
-Designed an AI-powered data cleaning pipeline integrating GPT for intelligent data cleaning, boosting quality by 30%.
-Enabled ingestion from diverse sources (CSV, Excel, PostgreSQL) reducing manual ETL time by 40%.
+<br>Designed an AI-powered data cleaning pipeline integrating GPT for intelligent data cleaning, boosting quality by 30%.
+<br>Enabled ingestion from diverse sources (CSV, Excel, PostgreSQL) reducing manual ETL time by 40%.
 
 
 ![image](https://github.com/user-attachments/assets/43e9bdad-02e8-4664-90e9-82ec7dbf4368)
+![image](https://github.com/user-attachments/assets/3361314c-bc38-4979-be17-bf93deaccdac)
+
  <!-- Optional if you have an image -->
 
 ---
