@@ -5,8 +5,11 @@ A multilingual, voice-activated assistant that translates natural language queri
 <br>Enabled ingestion from diverse sources (CSV, Excel, PostgreSQL) reducing manual ETL time by 40%.
 
 
-![image](https://github.com/user-attachments/assets/43e9bdad-02e8-4664-90e9-82ec7dbf4368)
-![image](https://github.com/user-attachments/assets/3361314c-bc38-4979-be17-bf93deaccdac)
+
+![image](https://github.com/user-attachments/assets/21132ba0-49c3-4e49-8617-f69523c8457e)
+![image](https://github.com/user-attachments/assets/e87085dc-b28f-4dec-980f-4fb35e65ae7a)
+
+
 
  <!-- Optional if you have an image -->
 
