@@ -50,7 +50,7 @@ sql-powered-assistant/<br>
 - **Database:** PostgreSQL (hosted online)
 - **LLM API:** EURI (OpenAI-compatible)
 - **Voice Recognition:** Google SpeechRecognition API
-- **ORM:** SQLAlchemy
+- **ORM:** NEON a PostgreSQL Online Data Integration
 
 ---
 
