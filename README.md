@@ -48,7 +48,7 @@ sql-powered-assistant/<br>
 - **Frontend:** Streamlit
 - **Backend:** Python
 - **Database:** PostgreSQL (hosted online)
-- **LLM API:** EURI (OpenAI-compatible)
+- **LLM API:** EURI (OpenAI-compatible) / GEMINI API
 - **Voice Recognition:** Google SpeechRecognition API
 - **ORM:** NEON a PostgreSQL Online Data Integration
 
